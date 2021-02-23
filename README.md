@@ -2,12 +2,13 @@
 A convolutional neural network recognizing 31 classes from the Google Speech Command Dataset
 
 ## Prerequisites
-* Mac 10.16.6+
-* Python 3.8+
-* Tensorflow 2.3+
-* Librosa 0.8.0+
-* Jupyter Notebook 6.1.5+
-* Matplotlib 3.3.3+
+* Mac >= 10.16.6
+* Numpy == 1.19.2
+* Python >= 3.8
+* Tensorflow >= 2.3
+* Librosa >= 0.8.0
+* Jupyter Notebook >= 6.1.5
+* Matplotlib >= 3.3.3
 
 
 ## How to run this notebook
